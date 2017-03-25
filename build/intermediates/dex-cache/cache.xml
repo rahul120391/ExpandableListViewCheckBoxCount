@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\rahul\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="D:\ExpandableListView\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-eed7c4d77ca6ecfd1bcc1dd4f3e07112c21ee1ae.jar" />
+    </item>
+    <item
+        jar="D:\ExpandableListView\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="D:\ExpandableListView\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-968cc4f8b65a6370dc20c447d8470003447284e3.jar" />
+    </item>
+    <item
+        jar="D:\ExpandableListView\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="D:\ExpandableListView\app\build\intermediates\pre-dexed\debug\classes-c28f8919041d9d43300d30bada3f75fbc68e3d86.jar" />
+    </item>
+
+</items>
